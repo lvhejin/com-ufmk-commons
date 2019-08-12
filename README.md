@@ -4,8 +4,6 @@
 ### Development common toolkit：
 #### Such as:
 
- > 1, StringUtils.java
- 
- > 2, MathUtils.java
- 
- > 3, ...
+ 1. StringUtils.java
+ 2, MathUtils.java
+ 3. ...
